@@ -8,7 +8,7 @@ I managed to bring the project almost to the end, but unfortunately it was delet
 Several scripts were also written that consist of the movement of the car, the display of texts, different positions of the camera, the interaction between the car and NPCs and so on.
 All assets were public and were taken from the Unity Asset Store.
 The map was created using Unity Terrain Tools.
-I managed somehow to take some screenshots of an old video with the project in it's initial stage:
+I managed somehow to take some screenshots of an old video with the project in its initial stage:
 
 ![ss1](https://github.com/pnd-andrei/unity-project/assets/76188072/a04eb5d7-3f4c-4eab-a1ad-92e7058aae91)
 ![ss2](https://github.com/pnd-andrei/unity-project/assets/76188072/c84069ac-63a4-4fdb-9fcf-541fa045a9fe)
